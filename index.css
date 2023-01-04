@@ -167,9 +167,13 @@ a {
     align-items: center;
 }
 
+.proDesc {
+    margin: 3%;
+}
+
 img {
-    width: 90%;
-    margin: 5%;
+    width: 95%;
+    margin: 3%;
 }
 
 /* Contact Me */
@@ -189,6 +193,10 @@ img {
 
 #email>i {
     font-size: 150px;
+}
+
+#resume>span {
+    font-size: 130px;
 }
 
 /* media sizing */
